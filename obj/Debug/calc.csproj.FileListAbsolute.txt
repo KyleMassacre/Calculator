@@ -1,6 +1,0 @@
-\\psf\home\documents\visual studio 2013\Projects\calc\calc\bin\Debug\calc.exe.config
-\\psf\home\documents\visual studio 2013\Projects\calc\calc\bin\Debug\calc.exe
-\\psf\home\documents\visual studio 2013\Projects\calc\calc\bin\Debug\calc.pdb
-\\psf\home\documents\visual studio 2013\Projects\calc\calc\obj\Debug\calc.csprojResolveAssemblyReference.cache
-\\psf\home\documents\visual studio 2013\Projects\calc\calc\obj\Debug\calc.exe
-\\psf\home\documents\visual studio 2013\Projects\calc\calc\obj\Debug\calc.pdb
